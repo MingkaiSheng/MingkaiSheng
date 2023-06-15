@@ -12,7 +12,6 @@
 - *2023.04*: &nbsp;🎉🎉 He Submitted a patent.
 
 #### 🎖 Honors and Awards
-- *2023.05* A patent is coming ...
 - *2018.01* [Tianchi Industrial AI Competition - Intelligent Manufacturing Quality Prediction](https://tianchi.aliyun.com/competition/entrance/231633/introduction?spm=5176.12281925.0.0.699771379Q6nlV) S1🎖: 22/2529;S2🎖: 50/2529.
 
 #### 📖 Educations
