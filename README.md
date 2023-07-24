@@ -5,10 +5,8 @@
 - 📫 To reach me [Github.io](https://shengmingkai.github.io/)
 
 #### 🔥  News
-- *2023.06*: &nbsp;🎉🎉 He is preparing a CCF-B journal paper.
 - *2022.06*: &nbsp;🎉🎉 He serves as a collaborative reviewer for conference([ACM-MM](https://dl.acm.org/conference/mm)) papers.
 - *2022.05*: &nbsp;🎉🎉 He submitted a CCF-A([ACM-MM](https://dl.acm.org/conference/mm)) conference paper.
-- *2022.05*: &nbsp;🎉🎉 His other patent has also been submitted.
 - *2023.04*: &nbsp;🎉🎉 He Submitted a patent.
 
 #### 🎖 Honors and Awards
