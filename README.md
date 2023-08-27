@@ -6,6 +6,9 @@ I am now working on Multi-modal Deep learning, including VQA, Text-Image Retriev
 
 My research interest includes Large Language Models(LLM) and Multi-modal Deep Learning. I have published ## papers <a href='https://scholar.google.com/citations?hl=en&user=sog0rcwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD.
 
+# 📎 Homepages
+- Personal Pages: https://mingkaisheng.github.io (updated recently🔥)
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=sog0rcwAAAAJ
 
 #### 🔥  News
 - *2023.04*: &nbsp;🎉🎉 Mingkai Sheng is writing a patent ...
