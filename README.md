@@ -8,9 +8,8 @@ My research interest includes Large Language Models(LLM) and Multi-modal Deep Le
 
 
 #### 🔥  News
-- *2022.06*: &nbsp;🎉🎉 He serves as a collaborative reviewer for conference([ACM-MM](https://dl.acm.org/conference/mm)) papers.
-- *2022.05*: &nbsp;🎉🎉 He submitted a CCF-A([ACM-MM](https://dl.acm.org/conference/mm)) conference paper.
-- *2023.04*: &nbsp;🎉🎉 He Submitted a patent.
+- *2023.04*: &nbsp;🎉🎉 Mingkai Sheng is writing a patent ...
+- *2022.02*: &nbsp;🎉🎉 He is doing something ...
 
 #### 🎖 Honors and Awards
 - *2018.01* [Tianchi Industrial AI Competition - Intelligent Manufacturing Quality Prediction](https://tianchi.aliyun.com/competition/entrance/231633/introduction?spm=5176.12281925.0.0.699771379Q6nlV) S1🎖: 22/2529;S2🎖: 50/2529.
