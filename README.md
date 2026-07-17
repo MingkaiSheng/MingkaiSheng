@@ -6,7 +6,7 @@ My graduate supervisor was [Dr. Lingfang Zeng](https://lingfangzeng.github.io/),
 
 ## Research Interests
 
-My research interests include large language models (LLMs), multimodal deep learning, and efficient AI systems. My current work focuses on the software stack for NPU-accelerated LLM inference, including graph compilation and optimization, operator compilation, and runtime systems.
+My research interests include large language models (LLMs), multimodal deep learning, and efficient AI systems. My current work focuses on the software stack for large-model inference chips, including graph compilation and optimization, operator compilation, and runtime systems.
 
 For research collaboration, please contact me at [shengmingkai22@mails.ucas.ac.cn](mailto:shengmingkai22@mails.ucas.ac.cn).
 
