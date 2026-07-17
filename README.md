@@ -1,36 +1,39 @@
-I am Mingkai Sheng, a postgraduate student of [**University of Chinese Academy of Sciences(UCAS)**](https://www.ucas.ac.cn/) <img src='./images/ucas.png' style='width: 6em;'>, registered at [**Institute of Software Chinese Academy of Sciences(ISCAS)**](http://www.iscas.ac.cn/) <img src='./images/iscas.png' style='width: 10em;'>, and studying at [**Hangzhou Institute for Advanced Study(HIAS), UCAS.**](http://hias.ucas.ac.cn/) <img src='./images/hias.png' style='width: 9em;'>.
+# Hi, I'm Mingkai Sheng
 
-My graduate supervisor is [**Dr. Lingfang Zeng**](https://lingfangzeng.github.io/), Head of the ZJ Lab-Enflame Joint Innovation Research Center. Currently, I am engaged in scientific research in [**Zhejiang Laboratory**](https://www.zhejianglab.com/home) <img src='./images/zhejiang_lab.png' style='width: 4em;'>.
+I am a researcher working on large language models, multimodal learning, and AI systems. I received my master's degree in Artificial Intelligence from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), where I was registered with the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/) and studied at the [Hangzhou Institute for Advanced Study, UCAS (HIAS)](http://hias.ucas.ac.cn/).
 
-I am now working on Multi-modal Deep learning, including VQA, Text-Image Retrieval, Referring Expression Comprehension and so on. If you are seeking any form of **academic cooperation**, please feel free to email me at [shengmingkai22@mails.ucas.ac.cn](mailto:shengmingkai22@mails.ucas.ac.cn).
+<img src='./images/ucas.png' alt='UCAS' style='width: 6em;'> <img src='./images/iscas.png' alt='ISCAS' style='width: 10em;'> <img src='./images/hias.png' alt='HIAS' style='width: 9em;'>
 
-My research interest includes Large Language Models(LLM) and Multi-modal Deep Learning. I have published ## papers <a href='https://scholar.google.com/citations?hl=en&user=sog0rcwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD.
+My graduate supervisor was [Dr. Lingfang Zeng](https://lingfangzeng.github.io/), Head of the ZJ Lab–Enflame Joint Innovation Research Center. I have also conducted research at [Zhejiang Laboratory](https://www.zhejianglab.com/home).
 
-#### 📎 Homepages
-- Personal Pages: https://mingkaisheng.github.io (updated recently🔥)
-- Google Scholar: https://scholar.google.com/citations?hl=en&user=sog0rcwAAAAJ
+## Research Interests
 
-#### 🔥  News
-- *2023.09*: &nbsp;🎉🎉 A paper were accepted by the 2023 IEEE International Conference on Knowledge Graph [(ICKG)](https://ickg2023.zhonghuapu.com/en/) ...
-- *2022.08*: &nbsp;🎉🎉 He is doing something ...
+My research interests include large language models (LLMs), multimodal deep learning, and efficient AI systems. My current work focuses on the software stack for NPU-accelerated LLM inference, including graph compilation and optimization, operator compilation, and runtime systems.
 
-#### 🎖 Honors and Awards
-- *2018.01* [Tianchi Industrial AI Competition - Intelligent Manufacturing Quality Prediction](https://tianchi.aliyun.com/competition/entrance/231633/introduction?spm=5176.12281925.0.0.699771379Q6nlV) S1🎖: 22/2529;S2🎖: 50/2529.
+For research collaboration, please contact me at [shengmingkai22@mails.ucas.ac.cn](mailto:shengmingkai22@mails.ucas.ac.cn).
 
-#### 📖 Educations
-- *2022.09 - (now)*, Master - University of Chinese Academy of Sciences, major in Artificial Intelligence.
-- *2013.07 - 2017.09*, Undergraduate - Zhengzhou University, major in Computer Science and Technology.
+## Links
 
-#### 💬 Invited Talks
-- *2021.06*, Mingkai Sheng.  \| [\[Topic\]](https://github.com/mingkaisheng)
+- [Personal Website](https://mingkaisheng.github.io)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=sog0rcwAAAAJ)
 
-#### 💻 Internships
-- *2022.04 - 2022.08*, [SeeHi](http://seehi.cn/), AI Algorithm Engineer.
-- *2019.05 - 2021.05*, [Tuya Inc](https://www.tuya.com/), AI Algorithm Engineer.
-- *2017.05 - 2018.05*, [Dtstack](https://www.dtstack.com/), Big Data Engineer.
+## News
 
+- **Jun. 2025** — Our paper, [*3D-Contrastive Anchors and Structure Enhancement for Multi-modal Representations*](https://doi.org/10.1109/ICME59968.2025.11210222), was published at IEEE ICME 2025.
+- **Jan. 2025** — Our paper, [*CLIP Multi-modal Hashing for Multimedia Retrieval*](https://doi.org/10.1007/978-981-96-2054-8_15), was published at MMM 2025.
+- **Aug. 2023** — We released the preprint [*CLIP Multi-modal Hashing: A New Baseline CLIPMH*](https://arxiv.org/abs/2308.11797).
 
-<!---
-MingkaiSheng/MingkaiSheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+
+- **M.S. in Artificial Intelligence**, University of Chinese Academy of Sciences, Sep. 2022 – Sep. 2025
+- **B.Eng. in Computer Science and Technology**, Zhengzhou University, Jul. 2013 – Sep. 2017
+
+## Work Experience
+
+- **AI Algorithm Engineer**, [SeeHi](http://seehi.cn/), Apr. 2022 – Aug. 2022
+- **AI Algorithm Engineer**, [Tuya Inc.](https://www.tuya.com/), May 2019 – May 2021
+- **Big Data Engineer**, [DTStack](https://www.dtstack.com/), May 2017 – May 2018
+
+## Honors and Awards
+
+- **Tianchi Industrial AI Competition — Intelligent Manufacturing Quality Prediction**, Jan. 2018: Stage 1: 22nd / 2,529; Stage 2: 50th / 2,529
