@@ -1,8 +1,6 @@
 # Hi, I'm Mingkai Sheng
 
-I am a researcher working on large language models, multimodal learning, and AI systems. I received my master's degree in Artificial Intelligence from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), where I was registered with the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/) and studied at the [Hangzhou Institute for Advanced Study, UCAS (HIAS)](http://hias.ucas.ac.cn/).
-
-<img src='./images/ucas.png' alt='UCAS' style='width: 6em;'> <img src='./images/iscas.png' alt='ISCAS' style='width: 10em;'> <img src='./images/hias.png' alt='HIAS' style='width: 9em;'>
+I am a researcher working on large language models, multimodal learning, and AI systems. I received my master's degree in Artificial Intelligence from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) <img src='./images/ucas.png' alt='UCAS' style='width: 6em;'>, where I was registered with the [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/) <img src='./images/iscas.png' alt='ISCAS' style='width: 10em;'> and studied at the [Hangzhou Institute for Advanced Study, UCAS (HIAS)](http://hias.ucas.ac.cn/) <img src='./images/hias.png' alt='HIAS' style='width: 9em;'>.
 
 My graduate supervisor was [Dr. Lingfang Zeng](https://lingfangzeng.github.io/), Head of the ZJ Lab–Enflame Joint Innovation Research Center. I have also conducted research at [Zhejiang Laboratory](https://www.zhejianglab.com/home).
 
