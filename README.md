@@ -12,7 +12,6 @@ For research collaboration, please contact me at [shengmingkai22@mails.ucas.ac.c
 
 ## Links
 
-- [Personal Website](https://mingkaisheng.github.io)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=sog0rcwAAAAJ)
 
 ## News
