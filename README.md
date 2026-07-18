@@ -20,6 +20,15 @@ For research collaboration, please contact me at [shengmingkai22@mails.ucas.ac.c
 - **Jan. 2025** — Our paper, [*CLIP Multi-modal Hashing for Multimedia Retrieval*](https://doi.org/10.1007/978-981-96-2054-8_15), was published at MMM 2025.
 - **Aug. 2023** — We released the preprint [*CLIP Multi-modal Hashing: A New Baseline CLIPMH*](https://arxiv.org/abs/2308.11797).
 
+## Publications
+
+- **IEEE ICME 2025** — [*3D-Contrastive Anchors and Structure Enhancement for Multi-modal Representations*](https://doi.org/10.1109/ICME59968.2025.11210222). Mingkai Sheng, Jichao Wang, Yi Liu, Wen Cheng, and Lingfang Zeng.
+- **MMM 2025** — [*CLIP Multi-modal Hashing for Multimedia Retrieval*](https://doi.org/10.1007/978-981-96-2054-8_15). Jian Zhu, Mingkai Sheng, Zhangmin Huang, Jingfei Chang, Jinling Jiang, Jian Long, Cheng Luo, and Lei Liu.
+- **GECCO 2024** — *A Phenotypic Learning Classifier System for Problems with Continuous Features*. Yi Liu, Yu Cui, Wen Cheng, Will Neil Browne, Bing Xue, Chengyuan Zhu, Yiding Zhang, Mingkai Sheng, and Lingfang Zeng.
+- **ISAS 2024** — *Adapting Explainable Decision Sets to Continuous-Based Real-World Problems*. Yi Liu, Ying Bi, Yu Cui, Chengyuan Zhu, Wen Cheng, Mingkai Sheng, and Yiding Zhang.
+- **IEEE ICKG 2023** — [*Deep Fusion Multi-View Hashing for Multimedia Retrieval*](https://doi.org/10.1109/ICKG59574.2023.00017). Jian Zhu, Mingkai Sheng, Mingda Ke, Wen Cheng, Liying Zhang, and Lingfang Zeng.
+- **arXiv 2023** — [*CLIP Multi-modal Hashing: A New Baseline CLIPMH*](https://arxiv.org/abs/2308.11797). Jian Zhu, Mingkai Sheng, Mingda Ke, Zhangmin Huang, and Jingfei Chang.
+
 ## Education
 
 - **M.S. in Artificial Intelligence**, University of Chinese Academy of Sciences, Sep. 2022 – Sep. 2025
